@@ -6,8 +6,9 @@ All materials are in Markdown format and include code examples, diagrams, and co
 ---
 
 1. [Design Patterns in Python 3](./design-patterns-in-python3/design-patterns-in-python3.md)
-2. [Python Requests Playbook](./python-requests-playbook/python-requests-playbook.md)
-3. [Working with Databases in Python](./working-with-databases-in-python/working-with-databases-in-python.md)
+2. [Python Collections](./pyhton-collections/python-collections.md)
+3. [Python Requests Playbook](./python-requests-playbook/python-requests-playbook.md)
+4. [Working with Databases in Python](./working-with-databases-in-python/working-with-databases-in-python.md)
 
 ---
 # Courses
@@ -41,7 +42,23 @@ Each pattern is developed in a **dedicated note**, including:
  🔗 [Go to course](./design-patterns-in-python3/design-patterns-in-python3)
 
 ---
-## 2. Python Requests Playbook
+## 2. Python Collections
+
+This course covers Python's `collections` module and advanced data structures for efficient programming.
+
+**Course Structure:**
+- **Module 1**: Utilizing Built-in Containers - `defaultdict`
+- **Module 2**: Improving Efficiency with Advanced Dictionaries - `ChainMap`
+- **Module 3**: Using Specialized Collection Classes - `deque`, `namedtuple`, `Counter`
+- **Module 4**: Customizing Built-in Data Types - `UserString`, `UserList`, `UserDict`
+
+**Key Topics:**
+- Performance optimization with specialized containers
+- Advanced dictionary patterns and multi-level configurations
+- Memory-efficient data structures and algorithms
+- Custom data type implementations and inheritance patterns
+
+## 3. Python Requests Playbook
 
 This course provides a complete and practical guide to using the **`requests`** library in Python, covering both foundational concepts and advanced techniques for working with HTTP.
 
@@ -72,7 +89,7 @@ The course is organized into six focused sections:
 
 ---
 
-## 3. Working with Databases in Python
+## 4. Working with Databases in Python
 
 This course covers how to work with both **relational** and **NoSQL** databases in Python, moving from local lightweight solutions to production-grade setups, and including ORM and ODM usage.
 
