@@ -14,23 +14,28 @@ Labels:  [[Dominio Técnico]] [[programación]] #Python #databases
  - [1.4 Demo sqlite3 Module](01_Using_a_Local_Relational_Database_-_SQLite/1.4-Demo-sqlite3-Module.md)
  - [1.5 Row factories](01_Using_a_Local_Relational_Database_-_SQLite/1.5-Row-factories.md)
  - [1.6 Demo Row Factories](01_Using_a_Local_Relational_Database_-_SQLite/1.6-Demo-Row-Factories.md)
-
 ## 2. Using a Relational Database - PostgreSQL and psycopg2
 
  - [2.1 Installing pyscopg2](02_Using_a_Relational_Database_-_PostgreSQL_and_psycopg2/2.1-Installing-pyscopg2.md)
  - [2.2 Inserting Data](02_Using_a_Relational_Database_-_PostgreSQL_and_psycopg2/2.2-Inserting-Data.md)
  - [2.3 Retrieving Data](02_Using_a_Relational_Database_-_PostgreSQL_and_psycopg2/2.3-Retrieving-Data.md)
-
+ - [2.4 Demo psycopg2](02_Using_a_Relational_Database_-_PostgreSQL_and_psycopg2/2.4-Demo-psycopg2.md)
 ## 3. Using an ORM - SQLAlchemy
 
  - [3.1 ORM Overview](03_Using_an_ORM_-_SQLAlchemy/3.1-ORM-Overview.md)
  - [3.2 Using SQLAlchemy](03_Using_an_ORM_-_SQLAlchemy/3.2-Using-SQLAlchemy.md)
+ - [3.3 Demo Data Modeling](03_Using_an_ORM_-_SQLAlchemy/3.3-Demo-Data-Modeling.md)
+ - [3.4 Demo CRUD](03_Using_an_ORM_-_SQLAlchemy/3.4-Demo-CRUD.md)
  - [3.5 Relationships](03_Using_an_ORM_-_SQLAlchemy/3.5-Relationships.md)
+ - [3.6 Demo Relationships](03_Using_an_ORM_-_SQLAlchemy/3.6-Demo-Relationships.md)
+ - [3.7 Demo Using the SQLAlchemy ORM in an Application](03_Using_an_ORM_-_SQLAlchemy/3.7-Demo-Using-the-SQLAlchemy-ORM-in-an-Application.md)
+ - [3.8 Demo Swapping Databases](03_Using_an_ORM_-_SQLAlchemy/3.8-Demo-Swapping-Databases.md)
 
 ## 4. Using a Local NoSQL Database - Mongita
 
  - [4.1 NoSQL Databases](04_Using_a_Local_NoSQL_Database_-_Mongita/4.1-NoSQL-Databases.md)
  - [4.2 Mongita](04_Using_a_Local_NoSQL_Database_-_Mongita/4.2-Mongita.md)
+ - [4.3 Demo Mongita](04_Using_a_Local_NoSQL_Database_-_Mongita/4.3-Demo-Mongita.md)
 
 ## 5. Using a NoSQL Database - MongoDB and PyMongo
 
@@ -38,9 +43,12 @@ Labels:  [[Dominio Técnico]] [[programación]] #Python #databases
  - [5.2 Migrating from Mongita to pymongo](05_Using_a_NoSQL_Database_-_MongoDB_and_PyMongo/5.2-Migrating-from-Mongita-to-pymongo.md)
  - [5.3 Filtering Multiple Conditions](05_Using_a_NoSQL_Database_-_MongoDB_and_PyMongo/5.3-Filtering-Multiple-Conditions.md)
  - [5.4 Embedded Documents and Lists](05_Using_a_NoSQL_Database_-_MongoDB_and_PyMongo/5.4-Embedded-Documents-and-Lists.md)
+ - [5.5 Demo Embedded documents and Lists](05_Using_a_NoSQL_Database_-_MongoDB_and_PyMongo/5.5-Demo-Embedded-documents-and-Lists.md)
 
 ## 6. Using a ODM - MongoEngine
 
  - [6.1 ODM vs ORM](06_Using_a_ODM_-_MongoEngine/6.1-ODM-vs-ORM.md)
  - [6.2 Data Modeling with MongoEngine](06_Using_a_ODM_-_MongoEngine/6.2-Data-Modeling-with-MongoEngine.md)
+ - [6.3 Demo Data Modeling with MongoEngine](06_Using_a_ODM_-_MongoEngine/6.3-Demo-Data-Modeling-with-MongoEngine.md)
  - [6.4 Embedded Documents with MongoEngine](06_Using_a_ODM_-_MongoEngine/6.4-Embedded-Documents-with-MongoEngine.md)
+ - [6.5 Demo Embedded Documens with MongoEngine](06_Using_a_ODM_-_MongoEngine/6.5-Demo-Embedded-Documens-with-MongoEngine.md)
