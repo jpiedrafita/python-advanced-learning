@@ -9,6 +9,8 @@ All materials are in Markdown format and include code examples, diagrams, and co
 2. [Python Collections](./pyhton-collections/python-collections.md)
 3. [Python Requests Playbook](./python-requests-playbook/python-requests-playbook.md)
 4. [Working with Databases in Python](./working-with-databases-in-python/working-with-databases-in-python.md)
+5. [Asynchronous Workflows](./asynchronous-workflows/asynchronous-workflows.md)
+6. [Performance in Python Structures](./performance-in-python-structures/performance-in-python-structures.md)
 
 ---
 # Courses
@@ -119,6 +121,67 @@ The course is organized into six sections:
    Understanding the differences between ODM and ORM, data modeling with MongoEngine, and managing embedded documents.
 
 🔗 [Go to course](./working-with-databases-in-python/working-with-databases-in-python)
+
+---
+
+## 5. Asynchronous Workflows
+
+This comprehensive course covers **asynchronous programming in Python** using AsyncIO and AioHTTP, from foundational concepts to building scalable real-time systems for high-performance applications.
+
+The goal is to master the tools and techniques needed for efficient concurrent programming, real-time data processing, and scalable web applications that can handle thousands of simultaneous connections.
+
+### Structure
+
+The course is organized into four progressive modules:
+
+1. **Why Asynchronous Programming**  
+   Understanding the need for async programming, core AsyncIO building blocks, and hands-on introduction to async/await patterns.
+
+2. **Implementing Asynchronous HTTP with AioHTTP**  
+   Introduction to AioHTTP framework, building async HTTP servers and clients, and request/response handling patterns.
+
+3. **Designing Efficient Workflows with AsyncIO**  
+   Event loop customization and management, task scheduling and coroutine composition, and performance optimization strategies.
+
+4. **Intercepting AsyncIO and AioHTTP for Scalable Systems**  
+   Building scalable AioHTTP servers with Gunicorn, real-time data processing with Server-sent Events, and database optimization with connection pooling.
+
+**Key Technologies:** AsyncIO, AioHTTP, Gunicorn, Server-sent Events, AsyncPG, connection pooling  
+**Applications:** REST APIs, real-time dashboards, high-performance clients, database-backed applications
+
+🔗 [Go to course](./asynchronous-workflows/asynchronous-workflows.md)
+
+---
+
+## 6. Performance in Python Structures
+
+This course focuses on **performance optimization techniques** for Python applications, covering measurement, profiling, and optimization strategies using threads, asynchronous programming, and multiprocessing.
+
+The objective is to understand how to identify performance bottlenecks and apply the appropriate optimization techniques to create efficient, scalable Python applications.
+
+### Structure
+
+The course covers five essential performance optimization areas:
+
+1. **Measuring Performance**  
+   Profiling tools, timing measurements, and performance analysis techniques to identify bottlenecks.
+
+2. **Optimizing Python Code**  
+   Code-level optimizations, algorithmic improvements, and efficient data structure usage.
+
+3. **Using More Threads**  
+   Threading concepts, thread pools, and concurrent execution for I/O-bound operations.
+
+4. **Using Asynchronous Code**  
+   AsyncIO patterns, event-driven programming, and non-blocking operations for scalability.
+
+5. **Using More Processes**  
+   Multiprocessing techniques, process pools, and parallel execution for CPU-bound operations.
+
+**Key Topics:** Profiling, concurrency, parallelism, threading, multiprocessing, AsyncIO optimization  
+**Applications:** Performance tuning, scalability improvements, concurrent processing, system optimization
+
+🔗 [Go to course](./performance-in-python-structures/performance-in-python-structures.md)
 
 ---
 
