@@ -11,7 +11,7 @@
 - [1.8 Double Dispatch with Methods](01_Advanced_Flow_Control/1.8-Double-Dispatch-with-Methods.md)
 
 
-## 2. Type-oriented Programming
+## 2. Byte-oriented Programming
 - [2.1 Everything Is Bits and Bytes](02_Type_Oriented_Programming/2.1-Everything-Is-Bits-and-Bytes.md)
 - [2.2 Bitwise Operations on Integers](02_Type_Oriented_Programming/2.2-Bitwise-Operations-on-Integers.md)
 - [2.3 Byte-wise Operations with Integers](02_Type_Oriented_Programming/2.3-Byte-wise-Operations-with-Integers.md)
